@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ramkumar</h1>
-<h3 align="center">Assisting Businesses in Launching, Sustaining, and Scaling Cost-Effective Applications</h3>
+<h1 align="center">Hello this is Ram Kumar !</h1>
+<h3 align="center">I Assist Businesses in Deploying, Maintaining, and Scaling Cost-Effective Applications. I can help you as an AWS Developer and Solutions Architect, a DevOps Engineer and in Application Production Support  !</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadashiva84" alt="sadashiva84" /></a> </p>
 
-- 🔭 I’m currently working on **dynalink.io**
+- 🔭 I’m currently working on **dynalink.io** and **deploy.ai**
 
-- 🌱 I’m currently learning **MLOps, Blockchain & Quantum Computing**
+- 🌱 I’m currently learning **AWS Speciality Concepts**
 
-- 👯 I’m looking to collaborate on **A SaaS project**
+- 👯 I’m looking to collaborate on **Startups and Cloud SaaS Projects**
 
-- 🤝 I’m looking for help with **dynalink.io**
+- 🤝 I’m looking for help with **Frontend Development and Chatbot Implementaion for my Applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sadashiva84](https://github.com/Sadashiva84)
+- 👨‍💻 All of my public projects are available at [https://github.com/Sadashiva84](https://github.com/Sadashiva84)
 
-- 💬 Ask me about **E2E Automation, DevOps and SRE**
+- 💬 Ask me about **AWS Solutions Architecture | AWS Development | Automated Deployments | DevOps Engineering | Production Support**
 
 - 📫 How to reach me **24ram46r@gmail.com**
 
