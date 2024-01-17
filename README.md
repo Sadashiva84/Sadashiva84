@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadashiva84" alt="sadashiva84" /></a> </p>
 
-- 🔭 I’m currently working on **dynalink.io** and **deploy.ai**
+- 🔭 I’m currently working on **dynalink.io** and **deploy.ai** (https://github.com/UnpredictablePrashant/Deploy.Ai)
 
 - 🌱 I’m currently learning **AWS Speciality Concepts**
 
