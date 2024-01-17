@@ -1,5 +1,6 @@
 <h1 align="center">Hello this is Ram Kumar !</h1>
 <h3 align="center">I Assist Businesses in Deploying, Maintaining, and Scaling Cost-Effective Applications. I can help you as an AWS Developer and Solutions Architect, a DevOps Engineer and in Application Production Support  !</h3>
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadashiva84" alt="sadashiva84" /></a> </p>
 
