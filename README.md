@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **dynalink.io** and **deploy.ai** (https://github.com/UnpredictablePrashant/Deploy.Ai)
 
-- 🌱 I’m currently learning **AWS Speciality Concepts**
+- 🌱 I’m currently learning **AWS Speciality Concepts and SRE Concepts**
 
 - 👯 I’m looking to collaborate on **Startups and Cloud SaaS Projects**
 
