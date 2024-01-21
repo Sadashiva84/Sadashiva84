@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Sadashiva84](https://github.com/Sadashiva84)
 
-- 💬 Ask me about **AWS Solutions Architecture | AWS Development | Automated Deployments | DevOps Engineering | Production Support**
+- 💬 Ask me about **AWS Solutions Architecture | AWS Developer | Automated Deployments | DevOps Engineering | Production Support**
 
 - 📫 How to reach me **24ram46r@gmail.com**
 
